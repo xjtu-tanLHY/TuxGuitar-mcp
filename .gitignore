@@ -9,11 +9,17 @@
 /lib/
 /share/
 
+# Music scores & build scripts (kept local)
+*.tg
+*.gp5
+*.bak
+build_*.py
+test_*.gp5
+
 # Python & System
 __pycache__/
 *.py[cod]
 *$py.class
-*.bak
 .DS_Store
 Thumbs.db
 
