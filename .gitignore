@@ -1,0 +1,25 @@
+# TuxGuitar desktop app installation binaries & libraries
+/*.exe
+/*.dll
+/*.bat
+/*.dat
+/dist/
+/doc/
+/jre/
+/lib/
+/share/
+
+# Python & System
+__pycache__/
+*.py[cod]
+*$py.class
+*.bak
+.DS_Store
+Thumbs.db
+
+# IDE & Environment
+.venv/
+env/
+.idea/
+.vscode/
+*.swp
